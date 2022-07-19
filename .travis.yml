@@ -1,0 +1,9 @@
+before_install:
+  gem install awesome_bot
+
+script:
+  # Search for dead links
+  awesome_bot -t5 --allow-dupe --allow-redirect ./input/resume.md;
+  awesome_bot -t5 --allow-dupe --allow-redirect ./input/resume-spanish.md
+
+warnings_are_errors: false

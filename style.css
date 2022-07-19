@@ -1,0 +1,34 @@
+<style type="text/css">
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 800px;
+    background: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+}
+
+
+h1 {
+    text-align: center;
+    color: #757575;
+    padding-top: 40px;
+}
+
+h2 {
+    color: #1D1313;
+    padding-top: 30px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #757575;
+}
+
+div{
+    margin-left:50px;
+}
+
+
+</style>
